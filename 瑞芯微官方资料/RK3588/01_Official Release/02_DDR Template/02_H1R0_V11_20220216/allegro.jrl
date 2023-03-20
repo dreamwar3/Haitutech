@@ -1,0 +1,203 @@
+\t (00:00:00) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:00)     Journal start - Wed Feb 08 11:49:33 2023
+\t (00:00:00)         Host=HUQINGZHOU User=Caius Pid=12500 CPUs=8
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe D:\Hardware\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_Official Release\02_DDR Template\02_H1R0_V11_20220216\RK3588_Template_LP4XD200P232SD8_41R0X41R0_2133MHz_H1R0_V11_20220216.brd
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:01) Design opened: D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/02_DDR Template/02_H1R0_V11_20220216/RK3588_Template_LP4XD200P232SD8_41R0X41R0_2133MHz_H1R0_V11_20220216.brd
+\i (00:00:01) trapsize 29
+\i (00:00:01) trapsize 28
+\i (00:00:01) trapsize 29
+\i (00:00:01) trapsize 35
+\i (00:00:02) trapsize 36
+\i (00:00:02) generaledit 
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -291.76 40.79
+\i (00:00:02) trapsize 72
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -291.91 41.23
+\i (00:00:03) trapsize 143
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -291.90 41.23
+\i (00:00:03) trapsize 286
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -291.90 41.22
+\i (00:00:03) trapsize 572
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -290.76 43.52
+\i (00:00:03) trapsize 1144
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -290.76 43.51
+\i (00:00:03) trapsize 2288
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -286.18 48.09
+\i (00:00:03) trapsize 4576
+\i (00:00:04) roam start
+\i (00:00:04) roam x -144
+\i (00:00:04) roam y -16
+\i (00:00:04) roam end
+\i (00:00:04) roam start
+\i (00:00:04) roam x 144
+\i (00:00:05) roam x 48
+\i (00:00:05) roam x 48
+\i (00:00:05) roam end
+\i (00:00:05) trapsize 7533
+\i (00:00:06) trapsize 3324
+\t (00:00:07) Begin Load EDA365 Skill...
+\t (00:00:07) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:07) >>菜单快捷键CTRL+E
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -1032.41 148.76
+\i (00:00:10) trapsize 1662
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -1125.47 98.91
+\i (00:00:10) trapsize 831
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -1713.76 137.14
+\i (00:00:11) trapsize 1662
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -1713.76 137.13
+\i (00:00:11) trapsize 3324
+\i (00:00:19) pick grid 4474.93 290.02
+\t (00:00:19) last pick:  4475.00 290.00
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in -437.47 1327.01
+\i (00:00:31) trapsize 1662
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in -437.46 1327.01
+\i (00:00:31) trapsize 831
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -477.34 1084.39
+\i (00:00:33) trapsize 1662
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -477.34 1084.38
+\i (00:00:33) trapsize 3324
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -477.35 1084.39
+\i (00:00:33) trapsize 6647
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 426.70 -218.50
+\i (00:00:34) trapsize 3324
+\i (00:00:42) trapsize 7533
+\i (00:00:44) trapsize 4576
+\i (00:00:46) trapsize 7533
+\i (00:00:47) trapsize 3324
+\i (00:00:48) setwindow form.vf_vis
+\i (00:00:48) FORM vf_vis 2 all_colorvisible YES 
+\i (00:00:48) FORM vf_vis 2 all_colorvisible NO 
+\i (00:00:49) FORM vf_vis 1 all_colorvisible NO 
+\i (00:00:49) FORM vf_vis 2 all_colorvisible YES 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in -1959.70 426.30
+\i (00:00:50) trapsize 1662
+\i (00:00:51) setwindow form.vf_vis
+\i (00:00:51) FORM vf_vis 2 all_colorvisible NO 
+\i (00:00:52) FORM vf_vis 3 all_colorvisible YES 
+\i (00:00:52) FORM vf_vis 3 all_colorvisible NO 
+\i (00:00:53) FORM vf_vis 4 all_colorvisible YES 
+\i (00:00:53) FORM vf_vis 4 all_colorvisible NO 
+\i (00:00:54) FORM vf_vis 5 all_colorvisible YES 
+\i (00:00:55) FORM vf_vis 5 all_colorvisible NO 
+\i (00:00:56) FORM vf_vis 6 all_colorvisible YES 
+\i (00:00:57) FORM vf_vis 7 all_colorvisible YES 
+\i (00:00:58) FORM vf_vis 7 all_colorvisible NO 
+\i (00:00:58) FORM vf_vis 8 all_colorvisible YES 
+\i (00:00:59) FORM vf_vis 8 all_colorvisible NO 
+\i (00:01:01) FORM vf_vis 6 all_colorvisible NO 
+\i (00:01:01) FORM vf_vis 8 all_colorvisible YES 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) roam start
+\i (00:01:05) roam x 176
+\i (00:01:05) roam y 16
+\i (00:01:05) roam x 48
+\i (00:01:05) roam end
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 320.35 -65.93
+\i (00:01:05) trapsize 831
+\i (00:01:06) roam start
+\i (00:01:06) roam x -128
+\i (00:01:06) roam end
+\i (00:01:07) setwindow form.vf_vis
+\i (00:01:07) FORM vf_vis 8 all_colorvisible NO 
+\i (00:01:07) FORM vf_vis 6 all_colorvisible YES 
+\i (00:01:09) FORM vf_vis 6 all_colorvisible NO 
+\i (00:01:10) FORM vf_vis 3 all_colorvisible YES 
+\i (00:01:10) FORM vf_vis 3 all_colorvisible NO 
+\i (00:01:10) FORM vf_vis 2 all_colorvisible YES 
+\i (00:01:11) FORM vf_vis 2 all_colorvisible NO 
+\i (00:01:11) FORM vf_vis 4 all_colorvisible YES 
+\i (00:01:11) FORM vf_vis 4 all_colorvisible NO 
+\i (00:01:11) FORM vf_vis 3 all_colorvisible YES 
+\i (00:01:12) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:13) FORM vf_vis 1 all_colorvisible NO 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out -30.30 113.55
+\i (00:01:13) trapsize 1662
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out -30.30 113.55
+\i (00:01:13) trapsize 3324
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in -56.88 -258.70
+\i (00:01:15) trapsize 1662
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out -60.20 -258.70
+\i (00:01:16) trapsize 3324
+\i (00:01:23) setwindow form.vf_vis
+\i (00:01:23) FORM vf_vis 3 all_colorvisible NO 
+\i (00:01:23) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 292.10 -65.92
+\i (00:01:37) trapsize 1662
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out 318.69 -278.63
+\i (00:01:38) trapsize 3324
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in -678.41 -1574.87
+\i (00:02:03) trapsize 1662
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in -675.09 -1581.52
+\i (00:02:03) trapsize 831
+\i (01:20:51) pick grid -1270.03 -1338.89
+\t (01:20:51) last pick:  -1270.00 -1340.00
+\i (01:20:51) zoom out 1 
+\i (01:20:51) setwindow pcb
+\i (01:20:51) zoom out -952.62 -1317.29
+\i (01:20:51) trapsize 1662
+\i (01:20:52) zoom out 1 
+\i (01:20:52) setwindow pcb
+\i (01:20:52) zoom out -952.61 -1317.28
+\i (01:20:52) trapsize 3324
+\i (01:31:02) pick grid 1799.39 -2473.93
+\t (01:31:02) last pick:  1800.00 -2475.00
+\i (06:49:34) exit 
+\t (06:49:35)     Journal end - Wed Feb 08 18:39:08 2023

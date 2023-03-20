@@ -1,0 +1,46 @@
+\t (00:00:01) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:01)     Journal start - Wed Feb 08 11:11:30 2023
+\t (00:00:01)         Host=HUQINGZHOU User=Caius Pid=20364 CPUs=8
+\t (00:00:01) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe D:\Hardware\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_Official Release\02_DDR Template\02_H1R0_V11_20220216\RK3588_Template_LP4XD200P232SD8_41R0X41R0_2133MHz_H1R0_V11_20220216.brd
+\t (00:00:01) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/02_DDR Template/02_H1R0_V11_20220216/RK3588_Template_LP4XD200P232SD8_41R0X41R0_2133MHz_H1R0_V11_20220216.brd
+\i (00:00:02) trapsize 29
+\i (00:00:02) trapsize 28
+\i (00:00:02) trapsize 29
+\i (00:00:03) trapsize 35
+\i (00:00:03) trapsize 36
+\i (00:00:04) generaledit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -313.21 41.08
+\i (00:00:04) trapsize 72
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -313.07 40.94
+\i (00:00:04) trapsize 143
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -308.50 41.22
+\i (00:00:04) trapsize 286
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -303.91 40.08
+\i (00:00:05) trapsize 572
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -300.49 42.37
+\i (00:00:05) trapsize 1144
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -298.20 42.37
+\i (00:00:05) trapsize 2288
+\t (00:00:07) Begin Load EDA365 Skill...
+\t (00:00:07) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:07) >>菜单快捷键CTRL+E
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 301.28 46.95
+\i (00:00:08) trapsize 4576
+\i (00:00:10) exit 
+\t (00:00:11)     Journal end - Wed Feb 08 11:11:40 2023

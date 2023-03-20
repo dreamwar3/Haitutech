@@ -1,0 +1,87 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\rk_nvr_demo1_rk3588_lp4xd200p232sd8_v21_20211228.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         ".\rk_nvr_demo1_rk3588_lp4xd200p232sd8_v21_20211228.dsn")
+      (Path "Design Resources"
+         ".\rk_nvr_demo1_rk3588_lp4xd200p232sd8_v21_20211228.dsn"
+         "RK_NVR_DEMO1_RK3588_LP4/4x_V21")
+      (Select "Design Resources"
+         ".\rk_nvr_demo1_rk3588_lp4xd200p232sd8_v21_20211228.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 951"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1231 78 539")
+        (Scroll "746 992")
+        (Zoom "164")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_OFFICIAL RELEASE\04_PRODUCT LINE BRANCH_NVR\04_DEMO REFERENCE DESIGN\RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228.DSN")
+      (Schematic "RK_NVR_DEMO1_RK3588_LP4/4x_V21")
+      (Page "21.Power-PMIC_RK806-1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1305 156 636")
+        (Scroll "314 152")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_OFFICIAL RELEASE\04_PRODUCT LINE BRANCH_NVR\04_DEMO REFERENCE DESIGN\RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228.DSN")
+      (Schematic "RK_NVR_DEMO1_RK3588_LP4/4x_V21")
+      (Page "68.Ethernet-GEPHY_RGMII1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1335 182 666")
+        (Scroll "314 323")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_OFFICIAL RELEASE\04_PRODUCT LINE BRANCH_NVR\04_DEMO REFERENCE DESIGN\RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228.DSN")
+      (Schematic "RK_NVR_DEMO1_RK3588_LP4/4x_V21")
+      (Page "67.Ethernet-GEPHY_RGMII0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1361 208 692")
+        (Scroll "0 40")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_OFFICIAL RELEASE\04_PRODUCT LINE BRANCH_NVR\04_DEMO REFERENCE DESIGN\RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228.DSN")
+      (Schematic "RK_NVR_DEMO1_RK3588_LP4/4x_V21")
+      (Page "98.Power Test"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 1153 0 484")
+        (Scroll "182 295")
+        (Zoom "92")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_OFFICIAL RELEASE\04_PRODUCT LINE BRANCH_NVR\04_DEMO REFERENCE DESIGN\RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228.DSN")
+      (Schematic "RK_NVR_DEMO1_RK3588_LP4/4x_V21")
+      (Page "11.RK3588_OSC/PLL/PMUIO")))
+  (MPSSessionName "Caius"))

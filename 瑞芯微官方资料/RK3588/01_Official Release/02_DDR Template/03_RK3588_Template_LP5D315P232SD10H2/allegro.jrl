@@ -1,0 +1,73 @@
+\t (00:00:01) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:01)     Journal start - Wed Feb 08 11:13:51 2023
+\t (00:00:01)         Host=HUQINGZHOU User=Caius Pid=25656 CPUs=8
+\t (00:00:01) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe D:\Hardware\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_Official Release\02_DDR Template\03_RK3588_Template_LP5D315P232SD10H2\RK3588_Template_LP5D315P232SD10H2_43R3x43R3_2750MHz_1H6_V10_20220317Pana.brd
+\t (00:00:01) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/02_DDR Template/03_RK3588_Template_LP5D315P232SD10H2/RK3588_Template_LP5D315P232SD10H2_43R3x43R3_2750MHz_1H6_V10_20220317Pana.brd
+\i (00:00:02) trapsize 1721
+\i (00:00:02) trapsize 1681
+\i (00:00:02) trapsize 1728
+\i (00:00:02) trapsize 1748
+\i (00:00:02) trapsize 2120
+\i (00:00:02) trapsize 2159
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -652.34 -640.71
+\i (00:00:03) trapsize 4318
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -142.83 -588.90
+\i (00:00:05) trapsize 2159
+\i (00:00:05) roam start
+\i (00:00:06) roam x 96
+\i (00:00:06) roam y -384
+\i (00:00:06) roam x 32
+\i (00:00:06) roam y -96
+\i (00:00:06) roam end
+\i (00:00:06) roam start
+\i (00:00:06) roam x 32
+\i (00:00:06) roam y -64
+\i (00:00:06) roam x 32
+\i (00:00:06) roam y -96
+\i (00:00:06) roam x 48
+\i (00:00:06) roam y -96
+\i (00:00:06) roam x 32
+\i (00:00:06) roam y -48
+\i (00:00:06) roam x 32
+\i (00:00:06) roam y -48
+\t (00:00:07) Begin Load EDA365 Skill...
+\t (00:00:07) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:07) >>菜单快捷键CTRL+E
+\i (00:00:07) roam x -160
+\i (00:00:07) roam y 384
+\i (00:00:07) roam x -304
+\i (00:00:07) roam y 384
+\i (00:00:07) roam x -192
+\i (00:00:07) roam y 272
+\i (00:00:07) roam end
+\i (00:00:08) roam start
+\i (00:00:08) roam x -112
+\i (00:00:08) roam y 64
+\i (00:00:08) roam x 16
+\i (00:00:08) roam y -16
+\i (00:00:08) roam x 48
+\i (00:00:08) roam y -64
+\i (00:00:08) roam x 16
+\i (00:00:08) roam y -48
+\i (00:00:08) roam x 80
+\i (00:00:08) roam y -96
+\i (00:00:09) roam end
+\i (00:00:09) roam start
+\i (00:00:09) roam x 32
+\i (00:00:09) roam y -96
+\i (00:00:09) roam x 32
+\i (00:00:09) roam y -32
+\i (00:00:10) roam end
+\i (00:00:10) roam start
+\i (00:00:10) roam x 80
+\i (00:00:10) roam y -16
+\i (00:00:10) roam end
+\i (00:00:11) exit 
+\t (00:00:12)     Journal end - Wed Feb 08 11:14:02 2023

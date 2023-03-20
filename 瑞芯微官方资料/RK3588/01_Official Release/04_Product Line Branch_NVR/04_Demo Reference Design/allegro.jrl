@@ -1,0 +1,31 @@
+\t (00:00:00) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:00)     Journal start - Tue Feb 07 17:28:53 2023
+\t (00:00:00)         Host=HUQINGZHOU User=Caius Pid=3340 CPUs=8
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe D:\Hardware\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_Official Release\04_Product Line Branch_NVR\04_Demo Reference Design\RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:01) Design opened: D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/04_Product Line Branch_NVR/04_Demo Reference Design/RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd
+\i (00:00:01) trapsize 5336
+\i (00:00:01) trapsize 5211
+\i (00:00:02) trapsize 5357
+\i (00:00:02) trapsize 5418
+\i (00:00:02) trapsize 6571
+\i (00:00:02) trapsize 6571
+\i (00:00:03) generaledit 
+\t (00:00:06) Begin Load EDA365 Skill...
+\t (00:00:06) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:06) >>菜单快捷键CTRL+E
+\i (00:00:06) dlib 
+\i (00:00:08) setwindow form.dlib
+\i (00:00:08) FORM dlib nodepend YES 
+\i (00:00:09) FORM dlib browse_export  
+\i (00:00:27) fillin "D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/04_Product Line Branch_NVR/LIB"
+\i (00:00:28) FORM dlib execute  
+\t (00:00:28) Starting Cadence export libraries...
+\i (00:00:40) FORM dlib cancel  
+\i (00:00:40) setwindow pcb
+\i (00:00:40) generaledit 
+\i (00:00:42) exit 
+\e (00:00:42) Do you want to save the changes you made to RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd?
+\i (00:00:44) fillin no 
+\t (00:00:44)     Journal end - Tue Feb 07 17:29:37 2023

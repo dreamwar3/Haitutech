@@ -1,0 +1,58 @@
+\t (00:00:00) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:00)     Journal start - Wed Feb 08 19:52:41 2023
+\t (00:00:00)         Host=HUQINGZHOU User=Caius Pid=10608 CPUs=8
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe D:\Hardware\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_Official Release\04_Product Line Branch_NVR\LIB\ind_707028.dra
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/04_Product Line Branch_NVR/LIB/ind_707028.dra
+\i (00:00:01) trapsize 550
+\i (00:00:01) trapsize 537
+\i (00:00:01) trapsize 552
+\i (00:00:01) trapsize 640
+\i (00:00:01) trapsize 1193
+\i (00:00:02) generaledit 
+\i (00:00:03) show measure 
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -110.92 67.98
+\i (00:00:03) trapsize 596
+\i (00:00:04) pick grid -170.55 -137.15
+\t (00:00:04) last pick:  -175.00 -125.00
+\i (00:00:04) pick grid 172.93 -146.70
+\t (00:00:04) last pick:  175.00 -150.00
+\e (00:00:06) Finish current command first.
+\i (00:00:07) pick grid 149.08 0.00
+\t (00:00:07) last pick:  150.00 0.00
+\i (00:00:07) pick grid -127.61 -2.39
+\t (00:00:07) last pick:  -125.00 0.00
+\e (00:00:12) Finish current command first.
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -26.24 63.21
+\i (00:00:12) trapsize 298
+\i (00:00:14) pick grid 172.93 139.54
+\t (00:00:14) last pick:  175.00 150.00
+\i (00:00:16) pick grid -174.72 140.14
+\t (00:00:16) last pick:  -175.00 150.00
+\e (00:00:18) Finish current command first.
+\i (00:00:24) setwindow text
+\i (00:00:24) close 
+\e (00:00:24) Finish current command first.
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 132.38 30.42
+\i (00:00:25) trapsize 596
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in -17.89 -70.96
+\i (00:00:25) trapsize 298
+\i (00:00:26) pick grid -124.03 1.79
+\t (00:00:26) last pick:  -125.00 0.00
+\i (00:00:27) pick grid 125.23 7.75
+\t (00:00:27) last pick:  125.00 0.00
+\e (00:00:30) Finish current command first.
+\i (00:00:32) exit 
+\e (00:00:32) Do you want to save the changes you made to ind_707028.dra?
+\i (00:00:33) fillin no 
+\t (00:00:33)     Journal end - Wed Feb 08 19:53:14 2023

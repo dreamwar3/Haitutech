@@ -1,0 +1,649 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Tue Feb 07 17:29:22 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/04_Product Line Branch_NVR/04_Demo Reference Design/RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  S_R1R00X1R20 being dumped.
+
+  S_O1R10X0R60 being dumped.
+
+  S_O1R30X0R40 being dumped.
+
+  S_O0R70X1R00 being dumped.
+
+  S_O0R60X2R00 being dumped.
+
+  S_R1R00X3R20 being dumped.
+
+  S_O0R70X0R20 being dumped.
+
+  S_R3R00X4R00 being dumped.
+
+  S_O0R80X0R20 being dumped.
+
+  S_O1R00X0R45 being dumped.
+
+  S_R0R50X2R00 being dumped.
+
+  P_C0R75_O1R50X1R25 being dumped.
+
+  S_R1R10X0R60 being dumped.
+
+  S_R0R50X0R30 being dumped.
+
+  S_R3R00X5R00 being dumped.
+
+  S_R1R40X1R20 being dumped.
+
+  S_R0R70X1R00 being dumped.
+
+  S_R1R00X0R70 being dumped.
+
+  S_R1R40X0R40 being dumped.
+
+  S_R2R00X2R50 being dumped.
+
+  S_R0R70X2R00 being dumped.
+
+  S_R0R20X0R70 being dumped.
+
+  S_R0R70X0R20 being dumped.
+
+  S_R0R24X0R30 being dumped.
+
+  S_R0R30X0R60 being dumped.
+
+  S_R0R60X0R30 being dumped.
+
+  S_R0R25X0R30 being dumped.
+
+  S_R0R30X0R70 being dumped.
+
+  S_R0R80X1R10 being dumped.
+
+  S_R0R70X1R20 being dumped.
+
+  S_R1R50X4R00 being dumped.
+
+  S_R2R20X6R00 being dumped.
+
+  S_R0R20X0R80 being dumped.
+
+  S_R0R80X0R20 being dumped.
+
+  S_R1R00X0R45 being dumped.
+
+  S_R0R70X0R30 being dumped.
+
+  S_R1R00X1R80 being dumped.
+
+  S_R0R30X2R60 being dumped.
+
+  S_R1R80X2R00 being dumped.
+
+  S_R1R10X1R80 being dumped.
+
+  S_R3R40X1R30 being dumped.
+
+  S_R1R20X1R70 being dumped.
+
+  S_O0R70X0R25 being dumped.
+
+  S_R1R40X1R60 being dumped.
+
+  S_R0R30X1R80 being dumped.
+
+  S_R2R00X5R50 being dumped.
+
+  S_R0R50X1R60 being dumped.
+
+  S_R2R30X4R04 being dumped.
+
+  S_R1R50X2R50 being dumped.
+
+  S_R1R80X3R10 being dumped.
+
+  S_R1R50X0R25 being dumped.
+
+  P_C0R74_O0R92X1R27 being dumped.
+
+  S_R1R20X2R80 being dumped.
+
+  S_R0R50X0R90 being dumped.
+
+  S_R1R55X0R30 being dumped.
+
+  S_R0R80X0R60 being dumped.
+
+  S_R0R25X0R70 being dumped.
+
+  S_R0R70X0R25 being dumped.
+
+  S_R3R40X4R30 being dumped.
+
+  S_R0R35X1R50 being dumped.
+
+  P_C4R30_C6R00-C8R00 being dumped.
+
+  S_R2R50X3R40 being dumped.
+
+  S_R0R70X2R60 being dumped.
+
+  S_R0R80X1R60 being dumped.
+
+  S_R0R20X0R68 being dumped.
+
+  S_R0R40X0R75 being dumped.
+
+  S_R0R80X2R60 being dumped.
+
+  S_R0R70X0R90 being dumped.
+
+  S_R0R23X0R92 being dumped.
+
+  S_R1R50X2R80 being dumped.
+
+  S_R0R23X0R65 being dumped.
+
+  S_R0R65X0R23 being dumped.
+
+  S_R0R80X0R90 being dumped.
+
+  S_R2R30X4R35 being dumped.
+
+  S_R2R54X3R30 being dumped.
+
+  S_O0R25X0R85 being dumped.
+
+  S_O0R85X0R25 being dumped.
+
+  S_R0R95X1R30 being dumped.
+
+  S_R0R75X1R50 being dumped.
+
+  S_R1R60X0R38 being dumped.
+
+  S_R0R65X0R80 being dumped.
+
+  S_R0R80X2R90 being dumped.
+
+  S_R0R55X2R35 being dumped.
+
+  S_R0R85X0R25 being dumped.
+
+  S_R2R42X5R35 being dumped.
+
+  S_R0R55X2R65 being dumped.
+
+  S_O0R76X1R95 being dumped.
+
+  S_R0R76X1R95 being dumped.
+
+  MARK_C1R00_C2R30NP being dumped.
+
+  P_C1R30_C2R00 being dumped.
+
+  P_C1R00_C1R50 being dumped.
+
+  P_C2R20_C4R00 being dumped.
+
+  P_C1R50_C3R00 being dumped.
+
+  P_C0R70_C1R10 being dumped.
+
+  P_C1R30_C2R30 being dumped.
+
+  P_C1R02_C1R50 being dumped.
+
+  P_C1R00_C1R80 being dumped.
+
+  P_C0R70_C1R20 being dumped.
+
+  P_C3R20_C6R00 being dumped.
+
+  P_C0R80_C1R20 being dumped.
+
+  P_C1R50_C2R50 being dumped.
+
+  P_C2R30_C3R50 being dumped.
+
+  P_D0R80_C1R40 being dumped.
+
+  P_C0R40_C0R65 being dumped.
+
+  P_C2R40_C4R50 being dumped.
+
+  P_C2R70_C6R00 being dumped.
+
+  P_C4R30_C8R00 being dumped.
+
+  P_C1R80_C2R50 being dumped.
+
+  P_C0R92_C1R60 being dumped.
+
+  P_C1R60_C2R45 being dumped.
+
+  P_C0R55_C0R80 being dumped.
+
+  S_C0R30 being dumped.
+
+  P_C3R50_C6R50 being dumped.
+
+  P_C1R35_C2R35 being dumped.
+
+  P_C0R55_C0R90 being dumped.
+
+  S_C0R22 being dumped.
+
+  S_R0R965X0R80 being dumped.
+
+  P_C0R90_C2R54 being dumped.
+
+  S_C0R50 being dumped.
+
+  S_C0R24 being dumped.
+
+  P_C0R55_C0R75 being dumped.
+
+  S_C0R70 being dumped.
+
+  P_C1R00_S1R80 being dumped.
+
+  S_S1R00 being dumped.
+
+  S_S2R00 being dumped.
+
+  S_S2R20 being dumped.
+
+  P_C0R90_S2R54 being dumped.
+
+  S_S0R50 being dumped.
+
+  S_S5R00 being dumped.
+
+  S_S0R60 being dumped.
+
+  S_S6R00 being dumped.
+
+  S_S3R50 being dumped.
+
+  S_S0R90 being dumped.
+
+  S_S2R70 being dumped.
+
+  S_S1R80 being dumped.
+
+  S_S0R55 being dumped.
+
+  S_S1R45 being dumped.
+
+  S_S5R60 being dumped.
+
+  S_S3R80 being dumped.
+
+  S_R1R016X1R625 being dumped.
+
+  P_C1R10_C1R524 being dumped.
+
+  S_0201SC being dumped.
+
+  S_R2R286X0R508 being dumped.
+
+  P_C0R89_C1R778 being dumped.
+
+  SHAPEESD0402_L being dumped.
+
+  SHAPEESD0402_R being dumped.
+
+  L12 being dumped.
+
+  L29 being dumped.
+
+  0402 being dumped.
+
+  0503 being dumped.
+
+  L910 being dumped.
+
+  SRC2_5X3L being dumped.
+
+  SRC2_5X3R being dumped.
+
+  P_O2R00X0R80_3R50X1R80 being dumped.
+
+  PAD1 being dumped.
+
+  PAD3 being dumped.
+
+  PAD4 being dumped.
+
+  PAD5 being dumped.
+
+  PAD6 being dumped.
+
+  PAD7 being dumped.
+
+  PAD8 being dumped.
+
+  PAD9 being dumped.
+
+  P_O0R94X0R635_O0R94X0R635_NP being dumped.
+
+  P_C1R00_C1R00_NP being dumped.
+
+  PAD10 being dumped.
+
+  PAD11 being dumped.
+
+  P_C2R00_C2R00_NP being dumped.
+
+  PAD12 being dumped.
+
+  022X022_NEW being dumped.
+
+  P_C1R20_C1R20_NP being dumped.
+
+  P_C2R20_C2R20_NP being dumped.
+
+  P_C1R30_C1R30_NP being dumped.
+
+  P_C1R50_C1R50_NP being dumped.
+
+  P_C3R30_C3R30_NP being dumped.
+
+  P_C1R60_C1R60_NP being dumped.
+
+  P_C0R80_C0R80_NP being dumped.
+
+  P_C1R70_C1R70_NP being dumped.
+
+  P_O0R60X1R70_O1R00X2R10 being dumped.
+
+  P_O0R70X1R40_O1R40X2R00 being dumped.
+
+  P_C0R90_C0R90_NP being dumped.
+
+  P_O0R60X2R20_O1R10X2R60 being dumped.
+
+  P_O2R10X0R80_O2R50X1R20 being dumped.
+
+  P_O2R00X0R60_O3R50X1R50 being dumped.
+
+  P_O3R50X1R00_O5R50X3R00 being dumped.
+
+  P_C0R65_C0R65_NP being dumped.
+
+  P_O0R80X2R10_O1R40X2R70 being dumped.
+
+  P_O1R10X0R75_O2R10X1R45 being dumped.
+
+  P_O0R90X1R70_O1R50X2R50 being dumped.
+
+  P_O0R60X2R50_O1R80X3R70 being dumped.
+
+  P_O0R90X2R70_O1R50X3R50 being dumped.
+
+  P_O0R48X1R09_O0R80X1R50 being dumped.
+
+  P_O1R70X3R70_O2R70X4R70 being dumped.
+
+  P_C3R40_C3R80-5R00 being dumped.
+
+  SH20_16OBSL being dumped.
+
+  SHAPE_C1R20 being dumped.
+
+  P_C1R00_O1R80X2R00 being dumped.
+
+  P_C2R30_O3R00X4R00 being dumped.
+
+  P_D1R50_C2R20_O2R50X2R80 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  c1r20_d being dumped.
+
+  aspad30 being dumped.
+
+  rspad30 being dumped.
+
+  rspad31 being dumped.
+
+  rspad32 being dumped.
+
+  shape_0201sc_1 being dumped.
+
+  shapeesd0402_l being dumped.
+
+  shapeesd0402_r being dumped.
+
+  src2_5x3l being dumped.
+
+  src2_5x3r being dumped.
+
+  022x022_new being dumped.
+
+  sh20_16obsl being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  led0603 being dumped.
+
+  esd0402 being dumped.
+
+  cnn10m_2r54_v_dip being dumped.
+
+  ij3_irm_3638 being dumped.
+
+  sot_23 being dumped.
+
+  cry2_3r20x1r50x0r90 being dumped.
+
+  cry4_3r20x2r50x0r80 being dumped.
+
+  sop8_4r00x5r00x1r75 being dumped.
+
+  smtso_m3_c4r1_c6r0_l5r0 being dumped.
+
+  cn3m_2r54_v_p_dip being dumped.
+
+  sod_123 being dumped.
+
+  cn4m_2r54_v_p_dip being dumped.
+
+  sod_323 being dumped.
+
+  sod_523 being dumped.
+
+  qfn12_2r00x3r00x1r00 being dumped.
+
+  tp_0r70 being dumped.
+
+  sot_323 being dumped.
+
+  rj45_sae5f8002 being dumped.
+
+  son10_2r50x1r00x0r50 being dumped.
+
+  mlp14_2r50x2r50x0r80 being dumped.
+
+  rp2_0405 being dumped.
+
+  do_214ac being dumped.
+
+  sata-ide4m_5r08_dip being dumped.
+
+  radiator_fan_65rx65rx20r being dumped.
+
+  cnn4f_4r20_v_h_dip being dumped.
+
+  beep_650 being dumped.
+
+  dc3_dc_0007_5p being dumped.
+
+  c0402_bga being dumped.
+
+  cnn60_0r80_b406 being dumped.
+
+  pcie64_x4_smt being dumped.
+
+  hdmia19_51r019s being dumped.
+
+  sot_23_5 being dumped.
+
+  sot_23_6 being dumped.
+
+  ssop16_5r60x6r50x2r00 being dumped.
+
+  bga200_15r00x10r00x0r90 being dumped.
+
+  ind_201610 being dumped.
+
+  ind_303015 being dumped.
+
+  usb20a4_ua04-dhf-pw137 being dumped.
+
+  ind_322512 being dumped.
+
+  ind_404026 being dumped.
+
+  tssop8_3r10x3r10x1r10 being dumped.
+
+  ind_606045 being dumped.
+
+  ind_707028 being dumped.
+
+  ssop28_10r20x5r30x2r00 being dumped.
+
+  bga153_13rx11r5x0r9_2l being dumped.
+
+  bat_cr1220 being dumped.
+
+  c0201 being dumped.
+
+  c0402 being dumped.
+
+  bga1088_23r00x23r00x2r00 being dumped.
+
+  wlcsp20_1r65x2r05x0r63 being dumped.
+
+  c0603 being dumped.
+
+  qfn20_3r00x3r00x0r55_t being dumped.
+
+  c1206 being dumped.
+
+  c0805 being dumped.
+
+  qfn40_5r00x5r00x0r90_t being dumped.
+
+  tssop20_6r50x4r40x1r20 being dumped.
+
+  f8050 being dumped.
+
+  l0603 being dumped.
+
+  r0201 being dumped.
+
+  soic24_17r53x12r20x5r51 being dumped.
+
+  r1210 being dumped.
+
+  r0402 being dumped.
+
+  hole_c3r20_c6r00 being dumped.
+
+  r0603 being dumped.
+
+  r1206 being dumped.
+
+  cnn80m_0r80_61082 being dumped.
+
+  r2512 being dumped.
+
+  qfn56_7r00x7r00x0r90_t being dumped.
+
+  e_c6 being dumped.
+
+  qfn68_7r00x7r00x0r80_t being dumped.
+
+  qfn56_8r00x8r00x0r90_t being dumped.
+
+  r0805 being dumped.
+
+  qfn64_9r00x9r00x0r90_t being dumped.
+
+  e_e7 being dumped.
+
+  mark being dumped.
+
+  cn3m_2r54_v_dip being dumped.
+
+  cn4m_2r54_v_dip being dumped.
+
+  hdmia19_hdmi_01a being dumped.
+
+  open being dumped.
+
+  sata30_7p_v_dip being dumped.
+
+  wson8_8r00x6r00x0r80_t being dumped.
+
+  usb30a9_25r70x7r32x13r85 being dumped.
+
+  c1206l being dumped.
+
+  typec30_24p_sd-2012670005 being dumped.
+
+  ba301n being dumped.
+
+  sw2_6r00x3r70x2r50 being dumped.
+
+  smb_f being dumped.
+
+  sw4_6r50x7r00x7r10 being dumped.
+
+  pj3_rca_2x1 being dumped.
+
+  usb20min5_usb_m5_03_002 being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  rockchip being dumped.
+
+  rockchips_2r00 being dumped.
+
+  bin being dumped.
+
+  no_touch being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:              198
+Number of package symbols dumped:         90
+Number of mechanical symbols dumped:       4
+Number of shape symbols dumped:           12
+
+Total number of symbols dumped:          106
+*****************************************************
+

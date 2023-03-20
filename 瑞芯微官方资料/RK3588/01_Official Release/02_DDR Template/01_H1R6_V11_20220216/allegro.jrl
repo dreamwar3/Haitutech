@@ -1,0 +1,53 @@
+\t (00:00:05) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:05)     Journal start - Wed Feb 08 11:49:07 2023
+\t (00:00:05)         Host=HUQINGZHOU User=Caius Pid=8788 CPUs=8
+\t (00:00:05) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe D:\Hardware\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_Official Release\02_DDR Template\01_H1R6_V11_20220216\RK3588_Template_LP4XD200P232SD8_41R0X41R0_2133MHz_H1R6_V11_20220216.brd
+\t (00:00:05) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/02_DDR Template/01_H1R6_V11_20220216/RK3588_Template_LP4XD200P232SD8_41R0X41R0_2133MHz_H1R6_V11_20220216.brd
+\i (00:00:06) trapsize 103
+\i (00:00:06) trapsize 100
+\i (00:00:06) trapsize 103
+\i (00:00:06) trapsize 104
+\i (00:00:07) trapsize 126
+\i (00:00:07) trapsize 129
+\i (00:00:08) generaledit 
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -241.14 -7.72
+\i (00:00:08) trapsize 257
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -241.13 -7.72
+\i (00:00:08) trapsize 515
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -232.89 -10.81
+\i (00:00:08) trapsize 1029
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -232.90 -10.80
+\i (00:00:08) trapsize 2058
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -228.78 -10.81
+\i (00:00:09) trapsize 4117
+\t (00:00:11) Begin Load EDA365 Skill...
+\t (00:00:11) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:11) >>菜单快捷键CTRL+E
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 1245.07 -183.72
+\i (00:00:39) trapsize 8234
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 783.97 -1352.92
+\i (00:00:39) trapsize 4117
+\i (06:50:05) xhilite 
+\i (06:50:05) xname_flush 
+\i (06:50:05) done 
+\i (06:50:05) generaledit 
+\i (06:50:08) exit 
+\e (06:50:08) Do you want to save the changes you made to RK3588_Template_LP4XD200P232SD8_41R0X41R0_2133MHz_H1R6_V11_20220216.brd?
+\i (06:50:09) fillin no 
+\t (06:50:09)     Journal end - Wed Feb 08 18:39:11 2023

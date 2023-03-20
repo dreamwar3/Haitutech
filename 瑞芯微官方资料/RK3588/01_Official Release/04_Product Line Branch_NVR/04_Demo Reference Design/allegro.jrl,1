@@ -1,0 +1,301 @@
+\t (00:00:00) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:00)     Journal start - Tue Feb 07 16:36:52 2023
+\t (00:00:00)         Host=HUQINGZHOU User=Caius Pid=3708 CPUs=8
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe D:\Hardware\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_Official Release\04_Product Line Branch_NVR\04_Demo Reference Design\RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:01) Design opened: D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/04_Product Line Branch_NVR/04_Demo Reference Design/RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd
+\i (00:00:01) trapsize 5336
+\i (00:00:01) trapsize 5211
+\i (00:00:02) trapsize 5357
+\i (00:00:02) trapsize 5418
+\i (00:00:02) trapsize 6571
+\i (00:00:02) trapsize 6571
+\i (00:00:03) generaledit 
+\t (00:00:06) Begin Load EDA365 Skill...
+\t (00:00:06) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:06) >>菜单快捷键CTRL+E
+\i (00:00:15) roam start
+\i (00:00:15) roam end
+\i (00:00:15) roam start
+\i (00:00:15) roam end
+\i (00:00:16) roam start
+\i (00:00:16) roam x 192
+\i (00:00:16) roam end
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 1902.59 -911.98
+\i (00:00:17) trapsize 13143
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -699.72 -1043.40
+\i (00:00:18) trapsize 6571
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out 2218.02 -806.83
+\i (00:01:16) trapsize 13143
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 483.15 -202.25
+\i (00:01:17) trapsize 6571
+\i (00:01:18) roam start
+\i (00:01:18) roam x 80
+\i (00:01:19) roam x 16
+\i (00:01:19) roam end
+\i (00:01:19) roam start
+\i (00:01:20) roam x -64
+\i (00:01:20) roam x -32
+\i (00:01:20) roam end
+\i (00:01:23) pick grid 3361.45 -872.54
+\t (00:01:23) last pick:  3360.00 -872.00
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out 3269.45 2018.91
+\i (00:01:25) trapsize 13143
+\i (00:01:26) pick grid 3479.74 4410.93
+\t (00:01:26) last pick:  3480.00 4412.00
+\i (00:01:27) drag_start grid -5010.61 4305.78
+\i (00:01:31) drag_stop 9236.35 -8022.31
+\i (00:01:31) pick grid 9236.35 -8022.31
+\t (00:01:31) last pick:  9236.00 -8024.00
+\i (00:01:32) pick grid 9288.93 -8022.31
+\t (00:01:32) last pick:  9288.00 -8024.00
+\i (00:01:32) drag_start grid 9367.78 -8180.02
+\i (00:01:33) drag_stop -4984.32 4226.92
+\i (00:01:34) pick grid -4984.32 4226.92
+\t (00:01:34) last pick:  -4984.00 4228.00
+\i (00:01:34) pick grid -4379.75 4253.21
+\t (00:01:34) last pick:  -4380.00 4252.00
+\i (00:01:35) drag_start grid -4195.74 4253.21
+\i (00:01:36) drag_stop 9078.64 -8074.88
+\i (00:01:37) pick grid 9078.64 -8074.88
+\t (00:01:37) last pick:  9080.00 -8076.00
+\i (00:01:37) pick grid 9052.35 -8074.88
+\t (00:01:37) last pick:  9052.00 -8076.00
+\i (00:01:38) drag_start grid 9446.64 -8101.17
+\i (00:01:39) drag_stop -4038.03 4095.49
+\i (00:01:39) pick grid -4038.03 4095.49
+\t (00:01:39) last pick:  -4040.00 4096.00
+\i (00:01:40) pick grid -4721.46 3753.78
+\t (00:01:40) last pick:  -4720.00 3752.00
+\i (00:01:40) pick grid -6114.62 3569.78
+\t (00:01:40) last pick:  -6116.00 3568.00
+\i (00:02:20) pick grid -9768.36 -2344.55
+\t (00:02:20) last pick:  -9768.00 -2344.00
+\i (00:02:23) zoom in 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom in -804.86 -320.54
+\i (00:02:23) trapsize 6571
+\i (00:02:24) roam start
+\i (00:02:24) roam end
+\i (00:02:25) roam start
+\i (00:02:25) roam x -112
+\i (00:02:25) roam y 112
+\i (00:02:25) roam end
+\i (00:02:25) roam start
+\i (00:02:25) roam x -32
+\i (00:02:25) roam y 48
+\i (00:02:26) roam x -336
+\i (00:02:26) roam y 112
+\i (00:02:26) roam x -80
+\i (00:02:26) roam y 48
+\i (00:02:26) roam x -32
+\i (00:02:26) roam y 32
+\i (00:02:26) roam end
+\i (00:02:26) roam start
+\i (00:02:26) roam x 48
+\i (00:02:26) roam y -32
+\i (00:02:26) roam x 208
+\i (00:02:26) roam y -112
+\i (00:02:26) roam x 224
+\i (00:02:26) roam y -160
+\i (00:02:26) roam end
+\i (00:02:27) roam start
+\i (00:02:27) roam end
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out -528.86 -806.69
+\i (00:02:27) trapsize 13143
+\i (00:02:28) zoom out 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom out -712.87 -911.83
+\i (00:02:28) trapsize 26286
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in 1718.58 -780.40
+\i (00:02:29) trapsize 13143
+\i (00:02:29) roam start
+\i (00:02:29) roam y -160
+\i (00:02:30) roam y -112
+\i (00:02:30) roam end
+\i (00:02:30) roam start
+\i (00:02:30) roam x 16
+\i (00:02:30) roam y 144
+\i (00:02:31) roam end
+\i (00:02:31) zoom in 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom in -95.14 -964.41
+\i (00:02:31) trapsize 6571
+\i (00:03:08) xhilite 
+\i (00:03:08) xname_flush 
+\i (00:03:08) done 
+\i (00:03:08) generaledit 
+\i (00:03:09) xhilite 
+\i (00:03:09) xname_flush 
+\i (00:03:09) done 
+\i (00:03:09) xdehilite 
+\i (00:03:10) xname_flush 
+\i (00:03:10) done 
+\i (00:03:10) xhilite 
+\i (00:03:10) xname_flush 
+\i (00:03:10) done 
+\i (00:03:10) xdehilite 
+\i (00:03:10) xname_flush 
+\i (00:03:10) done 
+\i (00:03:10) xhilite 
+\i (00:03:10) xname_flush 
+\i (00:03:10) done 
+\i (00:03:10) xdehilite 
+\i (00:03:10) xname_flush 
+\i (00:03:10) done 
+\i (00:03:10) xhilite 
+\i (00:03:11) xname_flush 
+\i (00:03:11) done 
+\i (00:03:11) xdehilite 
+\i (00:03:11) xname_flush 
+\i (00:03:11) done 
+\i (00:03:11) xhilite 
+\i (00:03:11) xname_flush 
+\i (00:03:11) done 
+\i (00:03:11) generaledit 
+\i (00:03:19) xdehilite 
+\i (00:03:19) xname_flush 
+\i (00:03:19) done 
+\i (00:03:19) generaledit 
+\i (00:07:19) xhilite 
+\i (00:07:19) xname_flush 
+\i (00:07:19) done 
+\i (00:07:19) generaledit 
+\i (00:07:27) xhilite 
+\i (00:07:28) xname_flush 
+\i (00:07:28) done 
+\i (00:07:28) generaledit 
+\i (00:07:47) xhilite 
+\i (00:07:47) xname_flush 
+\i (00:07:47) done 
+\i (00:07:47) generaledit 
+\i (00:07:50) xdehilite 
+\i (00:07:50) xname_flush 
+\i (00:07:50) done 
+\i (00:07:51) generaledit 
+\i (00:08:07) xhilite 
+\i (00:08:07) xname_flush 
+\i (00:08:07) done 
+\i (00:08:08) generaledit 
+\i (00:08:08) xdehilite 
+\i (00:08:08) xname_flush 
+\i (00:08:08) done 
+\i (00:08:08) xhilite 
+\i (00:08:08) xname_flush 
+\i (00:08:08) done 
+\i (00:08:08) xdehilite 
+\i (00:08:08) xname_flush 
+\i (00:08:08) done 
+\i (00:08:08) xhilite 
+\i (00:08:08) xname_flush 
+\i (00:08:08) done 
+\i (00:08:09) xdehilite 
+\i (00:08:09) xname_flush 
+\i (00:08:09) done 
+\i (00:08:09) xhilite 
+\i (00:08:09) xname_flush 
+\i (00:08:09) done 
+\i (00:08:09) xdehilite 
+\i (00:08:09) xname_flush 
+\i (00:08:09) done 
+\i (00:08:09) xhilite 
+\i (00:08:09) xname_flush 
+\i (00:08:09) done 
+\i (00:08:09) generaledit 
+\i (00:08:10) xdehilite 
+\i (00:08:10) xname_flush 
+\i (00:08:10) done 
+\i (00:08:11) generaledit 
+\i (00:10:25) pick grid 3427.17 21.31
+\t (00:10:25) last pick:  3428.00 20.00
+\i (00:32:45) trapsize 10818
+\i (00:32:46) trapsize 4773
+\i (00:32:49) roam start
+\i (00:32:49) roam end
+\i (00:32:49) roam start
+\i (00:32:50) roam end
+\i (00:32:50) zoom out 1 
+\i (00:32:50) setwindow pcb
+\i (00:32:50) zoom out -2806.24 -784.34
+\i (00:32:50) trapsize 9546
+\i (00:32:50) zoom out 1 
+\i (00:32:50) setwindow pcb
+\i (00:32:50) zoom out -916.18 -784.35
+\i (00:32:50) trapsize 19091
+\i (00:32:51) zoom in 1 
+\i (00:32:51) setwindow pcb
+\i (00:32:51) zoom in -1832.58 -784.34
+\i (00:32:51) trapsize 9546
+\i (00:32:51) zoom in 1 
+\i (00:32:51) setwindow pcb
+\i (00:32:51) zoom in -1832.58 -784.34
+\i (00:32:51) trapsize 4773
+\i (00:32:52) zoom in 1 
+\i (00:32:52) setwindow pcb
+\i (00:32:52) zoom in -1059.37 -1500.26
+\i (00:32:52) trapsize 2386
+\i (00:32:53) zoom in 1 
+\i (00:32:53) setwindow pcb
+\i (00:32:53) zoom in -983.01 -1438.22
+\i (00:32:53) trapsize 1193
+\i (00:32:53) zoom out 1 
+\i (00:32:53) setwindow pcb
+\i (00:32:53) zoom out -1025.96 -1483.56
+\i (00:32:53) trapsize 2386
+\i (00:32:53) zoom out 1 
+\i (00:32:53) setwindow pcb
+\i (00:32:53) zoom out -1035.51 -1488.33
+\i (00:32:53) trapsize 4773
+\i (00:32:54) exit 
+\e (00:32:54) Do you want to save the changes you made to RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd?
+\i (00:32:55) fillin menu_cancel 
+\i (00:32:55) generaledit 
+\i (00:32:56) zoom out 1 
+\i (00:32:56) setwindow pcb
+\i (00:32:56) zoom out 3307.79 697.63
+\i (00:32:56) trapsize 9546
+\i (00:32:56) exit 
+\e (00:32:56) Do you want to save the changes you made to RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd?
+\i (00:32:58) fillin menu_cancel 
+\i (00:32:58) generaledit 
+\i (00:44:47) xhilite 
+\i (00:44:47) xname_flush 
+\i (00:44:47) done 
+\i (00:44:47) xdehilite 
+\i (00:44:47) xname_flush 
+\i (00:44:47) done 
+\i (00:44:48) xhilite 
+\i (00:44:48) xname_flush 
+\i (00:44:48) done 
+\i (00:44:48) generaledit 
+\i (00:44:49) xhilite 
+\i (00:44:49) xname_flush 
+\i (00:44:49) done 
+\i (00:44:49) generaledit 
+\i (00:44:54) xdehilite 
+\i (00:44:54) xname_flush 
+\i (00:44:54) done 
+\i (00:44:54) generaledit 
+\i (00:44:55) xhilite 
+\i (00:44:55) xname_flush 
+\i (00:44:55) done 
+\i (00:44:55) generaledit 
+\i (00:45:12) exit 
+\e (00:45:12) Do you want to save the changes you made to RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd?
+\i (00:45:13) fillin no 
+\t (00:45:14)     Journal end - Tue Feb 07 17:22:05 2023

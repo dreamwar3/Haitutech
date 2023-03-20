@@ -1,0 +1,38 @@
+\t (00:00:00) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:00)     Journal start - Tue Feb 07 17:30:31 2023
+\t (00:00:00)         Host=HUQINGZHOU User=Caius Pid=25956 CPUs=8
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe D:\Hardware\个人项目\2023\02.武汉图科5目全景拼接\RK3588\01_Official Release\04_Product Line Branch_NVR\LIB\smb_f.dra
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: D:/Hardware/个人项目/2023/02.武汉图科5目全景拼接/RK3588/01_Official Release/04_Product Line Branch_NVR/LIB/smb_f.dra
+\i (00:00:01) trapsize 511
+\i (00:00:01) trapsize 499
+\i (00:00:01) trapsize 513
+\i (00:00:01) trapsize 594
+\i (00:00:01) trapsize 1107
+\i (00:00:02) generaledit 
+\t (00:00:06) Begin Load EDA365 Skill...
+\t (00:00:06) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:06) >>菜单快捷键CTRL+E
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -209.16 27.66
+\i (00:00:18) trapsize 553
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 77.46 0.00
+\i (00:00:19) trapsize 277
+\i (00:00:19) pick grid 183.14 17.71
+\t (00:00:19) last pick:  200.00 0.00
+\i (00:00:21) show measure 
+\i (00:00:22) pick grid -127.27 67.50
+\t (00:00:22) last pick:  -125.00 75.00
+\i (00:00:24) pick grid 125.05 63.63
+\t (00:00:24) last pick:  125.00 75.00
+\i (00:00:52) setwindow text
+\i (00:00:52) close 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) exit 
+\e (00:00:53) Do you want to save the changes you made to smb_f.dra?
+\i (00:00:54) fillin no 
+\t (00:00:54)     Journal end - Tue Feb 07 17:31:24 2023
