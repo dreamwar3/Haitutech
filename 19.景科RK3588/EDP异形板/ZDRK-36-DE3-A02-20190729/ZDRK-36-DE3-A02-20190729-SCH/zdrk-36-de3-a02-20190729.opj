@@ -1,0 +1,48 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\zdrk-36-de3-a02-20190729.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\zdrk-36-de3-a02-20190729.dsn")
+      (Path "Design Resources" ".\zdrk-36-de3-a02-20190729.dsn" "HI3536")
+      (Select "Design Resources" ".\zdrk-36-de3-a02-20190729.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 415"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1091 26 480")
+        (Scroll "165 0")
+        (Zoom "106")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\05.景科RK3588\EDP异形板\ZDRK-36-DE3-A02-20190729\ZDRK-36-DE3-A02-20190729-SCH\ZDRK-36-DE3-A02-20190729.DSN")
+      (Schematic "HI3536")
+      (Page "PC02 36-EDP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1117 52 506")
+        (Scroll "-69 0")
+        (Zoom "38")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\05.景科RK3588\EDP异形板\ZDRK-36-DE3-A02-20190729\ZDRK-36-DE3-A02-20190729-SCH\ZDRK-36-DE3-A02-20190729.DSN")
+      (Schematic "HI3536")
+      (Page "PC01 36-HDMI_IN_ADV7842")))
+  (MPSSessionName "Caius"))

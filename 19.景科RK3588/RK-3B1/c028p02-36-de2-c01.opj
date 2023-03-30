@@ -1,0 +1,60 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\c028p02-36-de2-c01.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\c028p02-36-de2-c01.dsn")
+      (Path "Design Resources" ".\c028p02-36-de2-c01.dsn" "HI3536")
+      (Select "Design Resources" ".\c028p02-36-de2-c01.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 554"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1235 78 532")
+        (Scroll "-121 0")
+        (Zoom "53")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\05.景科RK3588\RK-3B1\C028P02-36-DE2-C01.DSN")
+      (Schematic "HI3536")
+      (Page "PA12 ETH0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1261 104 558")
+        (Scroll "0 599")
+        (Zoom "106")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\05.景科RK3588\RK-3B1\C028P02-36-DE2-C01.DSN")
+      (Schematic "HI3536")
+      (Page "PC08 36-USB & SATA"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1287 130 584")
+        (Scroll "0 334")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\HARDWARE\个人项目\2023\05.景科RK3588\RK-3B1\C028P02-36-DE2-C01.DSN")
+      (Schematic "HI3536")
+      (Page "PA05 Hi3536V100 Unit 6 DISPLAY")))
+  (MPSSessionName "Caius")
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false"))
