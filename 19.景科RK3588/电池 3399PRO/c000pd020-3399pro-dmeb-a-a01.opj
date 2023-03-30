@@ -1,0 +1,38 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\c000pd020-3399pro-dmeb-a-a01.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\c000pd020-3399pro-dmeb-a-a01.dsn")
+      (Path "Design Resources" ".\c000pd020-3399pro-dmeb-a-a01.dsn"
+         "RK3399Pro_EVB")
+      (Select "Design Resources" ".\c000pd020-3399pro-dmeb-a-a01.dsn"
+         "RK3399Pro_EVB" "20.Power DC IN"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 390"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1457 52 481")
+        (Scroll "-257 0")
+        (Zoom "51")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\HAITUTECH\19.¾°¿ÆRK3588\µç³Ø 3399PRO\C000PD020-3399PRO-DMEB-A-A01.DSN")
+      (Schematic "RK3399Pro_EVB")
+      (Page "20.Power DC IN"))))

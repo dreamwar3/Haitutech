@@ -1,0 +1,89 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\a01.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CON19
+      (FullPartName "CON19.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\a01.dsn")
+      (Path "Design Resources" ".\a01.dsn" "RK3588_AIOT_SCH"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 444"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1535 182 743")
+        (Scroll "-99 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\HAITUTECH\19.景科RK3588\A01.DSN")
+      (Schematic "RK3588_AIOT_SCH")
+      (Page "C03.Ethernet-GPHY_RGMII1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1587 182 611")
+        (Scroll "-257 0")
+        (Zoom "51")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\HAITUTECH\19.景科RK3588\A01.DSN")
+      (Schematic "RK3588_AIOT_SCH")
+      (Page "D11.RS232 & DEBUG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1613 208 637")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\HAITUTECH\19.景科RK3588\A01.DSN")
+      (Schematic "RK3588_AIOT_SCH")
+      (Page "D06.CON_USB2_0 & 3_0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1405 0 429")
+        (Scroll "-257 0")
+        (Zoom "51")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\HAITUTECH\19.景科RK3588\A01.DSN")
+      (Schematic "RK3588_AIOT_SCH")
+      (Page "D17.Battery"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1509 104 533")
+        (Scroll "-257 0")
+        (Zoom "51")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\HAITUTECH\19.景科RK3588\A01.DSN")
+      (Schematic "RK3588_AIOT_SCH")
+      (Page "D12.HDMI-IN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1535 130 559")
+        (Scroll "-257 0")
+        (Zoom "51")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\HAITUTECH\19.景科RK3588\A01.DSN")
+      (Schematic "RK3588_AIOT_SCH")
+      (Page "D14.SPK & MIC"))))

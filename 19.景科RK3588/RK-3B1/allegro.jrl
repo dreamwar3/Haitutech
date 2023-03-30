@@ -1,0 +1,311 @@
+\t (00:00:00) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:00)     Journal start - Thu Mar 30 20:43:00 2023
+\t (00:00:00)         Host=DESKTOP-OG42L7L User=Administrator Pid=1932 CPUs=20
+\t (00:00:00) CmdLine= E:\Cadence\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\GitHub\Haitutech\19.景科RK3588\RK-3B1\1119394-C028P02-36-DE2-C01_pcb.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: E:/GitHub/Haitutech/19.景科RK3588/RK-3B1/1119394-C028P02-36-DE2-C01_pcb.brd
+\i (00:00:02) trapsize 2340
+\i (00:00:02) trapsize 2298
+\i (00:00:02) trapsize 2347
+\i (00:00:02) trapsize 2368
+\i (00:00:02) trapsize 2746
+\i (00:00:02) trapsize 2746
+\i (00:00:02) generaledit 
+\i (00:00:04) pick grid 3071.73 3109.74
+\t (00:00:04) last pick:  3070.00 3110.00
+\i (00:00:05) pick grid 2989.36 3076.80
+\t (00:00:05) last pick:  2990.00 3075.00
+\i (00:00:05) add connect 
+\t (00:00:06) Pick first element.
+\e (00:00:06) Finish current command first.
+\i (00:00:06) cancel 
+\i (00:00:07) generaledit 
+\i (00:00:07) cancel 
+\i (00:00:07) generaledit 
+\i (00:00:07) cancel 
+\i (00:00:07) generaledit 
+\i (00:00:07) add connect 
+\t (00:00:07) Pick first element.
+\i (00:00:08) cancel 
+\i (00:00:08) generaledit 
+\i (00:00:09) roam start
+\i (00:00:09) roam y -48
+\i (00:00:09) roam y -64
+\i (00:00:10) roam end
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 3044.28 3852.74
+\i (00:00:10) trapsize 1373
+\t (00:00:12) Begin Load EDA365 Skill...
+\t (00:00:12) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:12) >>菜单快捷键CTRL+E
+\i (00:00:20) xhilite 
+\i (00:00:20) xNet Vga_Hs 
+\i (00:00:20) xname_flush 
+\i (00:00:20) trapsize 18
+\t (00:00:20) Net "Vga_Hs" highlighted.
+\i (00:00:20) done 
+\i (00:00:20) xdehilite 
+\i (00:00:20) xNet Vga_Hs 
+\i (00:00:20) xname_flush 
+\t (00:00:20) Net "Vga_Hs" dehighlighted.
+\i (00:00:20) done 
+\i (00:00:20) xhilite 
+\i (00:00:20) xNet Vga_Hs 
+\i (00:00:20) xname_flush 
+\i (00:00:20) trapsize 18
+\t (00:00:20) Net "Vga_Hs" highlighted.
+\i (00:00:20) done 
+\i (00:00:21) generaledit 
+\i (00:00:22) xhilite 
+\i (00:00:22) xrefdes J7 
+\i (00:00:22) xname_flush 
+\i (00:00:22) trapsize 984
+\t (00:00:22) Symbol "J7" highlighted.
+\i (00:00:22) done 
+\i (00:00:22) generaledit 
+\i (00:00:24) xdehilite 
+\i (00:00:24) xrefdes J7 
+\i (00:00:24) xname_flush 
+\t (00:00:24) Symbol "J7" dehighlighted.
+\i (00:00:24) done 
+\i (00:00:24) generaledit 
+\i (00:00:26) xhilite 
+\i (00:00:26) xrefdes J7 
+\i (00:00:26) xNet Dsr1 
+\i (00:00:26) xNet Dcd1 
+\i (00:00:26) xNet Rts1 
+\i (00:00:26) xNet Ri1 
+\i (00:00:26) xNet Dtr1 
+\i (00:00:26) xNet Cts1 
+\i (00:00:26) xNet Dtr2 
+\i (00:00:26) xNet Cts2 
+\i (00:00:26) xNet Ri2 
+\i (00:00:26) xNet Dsr2 
+\i (00:00:26) xNet Dcd2 
+\i (00:00:26) xNet Rts2 
+\i (00:00:26) xname_flush 
+\i (00:00:26) trapsize 2729
+\t (00:00:26) 12 Net(s) highlighted.
+\t (00:00:26) 1 Component(s) highlighted.
+\i (00:00:26) done 
+\i (00:00:26) generaledit 
+\i (00:00:28) xdehilite 
+\i (00:00:28) xrefdes J7 
+\i (00:00:28) xNet Dsr1 
+\i (00:00:28) xNet Dcd1 
+\i (00:00:28) xNet Rts1 
+\i (00:00:28) xNet Ri1 
+\i (00:00:28) xNet Dtr1 
+\i (00:00:28) xNet Cts1 
+\i (00:00:28) xNet Dtr2 
+\i (00:00:28) xNet Cts2 
+\i (00:00:28) xNet Ri2 
+\i (00:00:28) xNet Dsr2 
+\i (00:00:28) xNet Dcd2 
+\i (00:00:28) xNet Rts2 
+\i (00:00:28) xname_flush 
+\t (00:00:28) 12 Net(s) dehighlighted.
+\t (00:00:28) 1 Component(s) dehighlighted.
+\i (00:00:28) done 
+\i (00:00:28) generaledit 
+\i (00:00:35) xhilite 
+\i (00:00:35) xNet Vga_Hs 
+\i (00:00:35) xname_flush 
+\i (00:00:35) trapsize 18
+\t (00:00:35) Net "Vga_Hs" highlighted.
+\i (00:00:35) done 
+\i (00:00:35) generaledit 
+\i (00:00:36) xhilite 
+\i (00:00:36) xNet Dcd1 
+\i (00:00:36) xname_flush 
+\i (00:00:36) trapsize 1552
+\t (00:00:36) Net "Dcd1" highlighted.
+\i (00:00:36) done 
+\i (00:00:36) generaledit 
+\i (00:00:40) xdehilite 
+\i (00:00:40) xNet Dcd1 
+\i (00:00:40) xname_flush 
+\t (00:00:40) Net "Dcd1" dehighlighted.
+\i (00:00:40) done 
+\i (00:00:40) generaledit 
+\i (00:00:55) xhilite 
+\i (00:00:56) xNet Crd_Pwr 
+\i (00:00:56) xname_flush 
+\i (00:00:56) trapsize 504
+\t (00:00:56) Net "Crd_Pwr" highlighted.
+\i (00:00:56) done 
+\i (00:00:56) generaledit 
+\i (00:00:56) xdehilite 
+\i (00:00:56) xNet Crd_Pwr 
+\i (00:00:56) xname_flush 
+\t (00:00:56) Net "Crd_Pwr" dehighlighted.
+\i (00:00:56) done 
+\i (00:00:56) xhilite 
+\i (00:00:56) xNet Crd_Pwr 
+\i (00:00:56) xname_flush 
+\i (00:00:56) trapsize 504
+\t (00:00:56) Net "Crd_Pwr" highlighted.
+\i (00:00:56) done 
+\i (00:00:56) generaledit 
+\i (00:01:00) xdehilite 
+\i (00:01:00) xNet Crd_Pwr 
+\i (00:01:00) xname_flush 
+\t (00:01:00) Net "Crd_Pwr" dehighlighted.
+\i (00:01:00) done 
+\i (00:01:00) generaledit 
+\i (00:01:00) xhilite 
+\i (00:01:00) xNet Gnd 
+\i (00:01:00) xNet Crd_Pwr 
+\i (00:01:00) xrefdes C216 
+\i (00:01:00) xname_flush 
+\i (00:01:00) trapsize 2729
+\t (00:01:00) Net "Gnd" highlighted.
+\t (00:01:00) Net "Crd_Pwr" highlighted.
+\t (00:01:00) Symbol "C216" highlighted.
+\i (00:01:00) done 
+\i (00:01:01) generaledit 
+\i (00:01:02) xhilite 
+\i (00:01:02) xrefdes C240 
+\i (00:01:02) xrefdes Lb26 
+\i (00:01:02) xrefdes C245 
+\i (00:01:02) xrefdes C226 
+\i (00:01:02) xrefdes C227 
+\i (00:01:02) xrefdes C253 
+\i (00:01:02) xNet 3V3_Sdio 
+\i (00:01:02) xNet 3V3 
+\i (00:01:02) xname_flush 
+\i (00:01:02) trapsize 2729
+\t (00:01:02) Symbol "C240" highlighted.
+\t (00:01:02) Symbol "Lb26" highlighted.
+\t (00:01:02) Symbol "C245" highlighted.
+\t (00:01:02) Symbol "C226" highlighted.
+\t (00:01:02) Symbol "C227" highlighted.
+\t (00:01:02) Symbol "C253" highlighted.
+\t (00:01:02) Net "3V3_Sdio" highlighted.
+\t (00:01:02) Net "3V3" highlighted.
+\i (00:01:02) done 
+\i (00:01:02) generaledit 
+\i (00:01:04) xhilite 
+\i (00:01:04) xrefdes J111 
+\i (00:01:04) xNet N18864923 
+\i (00:01:04) xNet N18864912 
+\i (00:01:04) xrefdes D1 
+\i (00:01:04) xrefdes L20 
+\i (00:01:04) xNet Rs232_Rxa 
+\i (00:01:04) xrefdes L21 
+\i (00:01:04) xNet Rs232_Txa 
+\i (00:01:04) xrefdes C88 
+\i (00:01:04) xrefdes C90 
+\i (00:01:04) xname_flush 
+\i (00:01:04) trapsize 2557
+\t (00:01:04) 4 Net(s) highlighted.
+\t (00:01:04) 6 Component(s) highlighted.
+\i (00:01:04) done 
+\i (00:01:04) generaledit 
+\i (00:01:06) xdehilite 
+\i (00:01:06) xrefdes J111 
+\i (00:01:06) xNet Gnd 
+\i (00:01:06) xNet N18864923 
+\i (00:01:06) xNet N18864912 
+\i (00:01:06) xrefdes D1 
+\i (00:01:06) xrefdes L20 
+\i (00:01:06) xNet Rs232_Rxa 
+\i (00:01:06) xrefdes L21 
+\i (00:01:06) xNet Rs232_Txa 
+\i (00:01:06) xrefdes C88 
+\i (00:01:07) xrefdes C90 
+\i (00:01:07) xname_flush 
+\t (00:01:07) 5 Net(s) dehighlighted.
+\t (00:01:07) 6 Component(s) dehighlighted.
+\i (00:01:07) done 
+\i (00:01:07) generaledit 
+\i (00:01:07) xhilite 
+\i (00:01:07) xrefdes J1 
+\i (00:01:07) xrefdes J6 
+\i (00:01:07) xNet Rs232_Rxb 
+\i (00:01:07) xNet Rs232_Txb 
+\i (00:01:07) xNet Rs232_Txc 
+\i (00:01:07) xNet Rs232_Rxc 
+\i (00:01:07) xname_flush 
+\i (00:01:07) trapsize 2729
+\t (00:01:07) Symbol "J1" highlighted.
+\t (00:01:07) Symbol "J6" highlighted.
+\t (00:01:07) Net "Rs232_Rxb" highlighted.
+\t (00:01:07) Net "Rs232_Txb" highlighted.
+\t (00:01:07) Net "Rs232_Txc" highlighted.
+\t (00:01:07) Net "Rs232_Rxc" highlighted.
+\i (00:01:07) done 
+\i (00:01:07) generaledit 
+\i (00:01:08) xdehilite 
+\i (00:01:08) xrefdes J1 
+\i (00:01:08) xrefdes J6 
+\i (00:01:08) xNet Rs232_Rxb 
+\i (00:01:08) xNet Rs232_Txb 
+\i (00:01:08) xNet Rs232_Txc 
+\i (00:01:08) xNet Rs232_Rxc 
+\i (00:01:08) xname_flush 
+\t (00:01:08) Symbol "J1" dehighlighted.
+\t (00:01:08) Symbol "J6" dehighlighted.
+\t (00:01:08) Net "Rs232_Rxb" dehighlighted.
+\t (00:01:08) Net "Rs232_Txb" dehighlighted.
+\t (00:01:08) Net "Rs232_Txc" dehighlighted.
+\t (00:01:08) Net "Rs232_Rxc" dehighlighted.
+\i (00:01:08) done 
+\i (00:01:09) generaledit 
+\i (00:01:09) xhilite 
+\i (00:01:09) xNet Rs232_Rxa 
+\i (00:01:09) xNet Rs232_Txa 
+\i (00:01:09) xrefdes J123 
+\i (00:01:09) xNet Gnd 
+\i (00:01:09) xname_flush 
+\i (00:01:09) trapsize 2729
+\t (00:01:09) Net "Rs232_Rxa" highlighted.
+\t (00:01:09) Net "Rs232_Txa" highlighted.
+\t (00:01:09) Symbol "J123" highlighted.
+\t (00:01:09) Net "Gnd" highlighted.
+\i (00:01:09) done 
+\i (00:01:09) generaledit 
+\i (00:01:09) xdehilite 
+\i (00:01:10) xNet Rs232_Rxa 
+\i (00:01:10) xNet Rs232_Txa 
+\i (00:01:10) xrefdes J123 
+\i (00:01:10) xNet Gnd 
+\i (00:01:10) xname_flush 
+\t (00:01:10) Net "Rs232_Rxa" dehighlighted.
+\t (00:01:10) Net "Rs232_Txa" dehighlighted.
+\t (00:01:10) Symbol "J123" dehighlighted.
+\t (00:01:10) Net "Gnd" dehighlighted.
+\i (00:01:10) done 
+\i (00:01:10) generaledit 
+\i (00:01:10) xhilite 
+\i (00:01:10) xNet Rs232_Rxa 
+\i (00:01:10) xNet Rs232_Txa 
+\i (00:01:10) xrefdes J123 
+\i (00:01:10) xNet Gnd 
+\i (00:01:10) xname_flush 
+\i (00:01:10) trapsize 2729
+\t (00:01:10) Net "Rs232_Rxa" highlighted.
+\t (00:01:10) Net "Rs232_Txa" highlighted.
+\t (00:01:10) Symbol "J123" highlighted.
+\t (00:01:10) Net "Gnd" highlighted.
+\i (00:01:10) done 
+\i (00:01:11) generaledit 
+\i (00:01:11) xdehilite 
+\i (00:01:11) xNet Rs232_Rxa 
+\i (00:01:11) xNet Rs232_Txa 
+\i (00:01:11) xrefdes J123 
+\i (00:01:11) xNet Gnd 
+\i (00:01:11) xname_flush 
+\t (00:01:11) Net "Rs232_Rxa" dehighlighted.
+\t (00:01:11) Net "Rs232_Txa" dehighlighted.
+\t (00:01:11) Symbol "J123" dehighlighted.
+\t (00:01:11) Net "Gnd" dehighlighted.
+\i (00:01:12) done 
+\i (00:01:12) generaledit 
+\i (00:01:13) exit 
+\e (00:01:13) Do you want to save the changes you made to 1119394-C028P02-36-DE2-C01_pcb.brd?
+\i (00:01:14) fillin no 
+\t (00:01:14)     Journal end - Thu Mar 30 20:44:14 2023
